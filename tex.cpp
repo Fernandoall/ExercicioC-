@@ -2,6 +2,7 @@
 #include <queue>
 #include <list>
 #include <algorithm> // Para std::find_if
+#include <functional> // Para std::function
 
 struct Guiche {
     int id;
